@@ -165,7 +165,7 @@ To run tests in NetBeans:
 
 ## Expected outcome
 
-By using this project, you can demonstrate that you are able to:
+By using this project, it will demonstrate that I am able to:
 - apply OOP principles in Java
 - use decisions and validation rules
 - build a console application with input and output
