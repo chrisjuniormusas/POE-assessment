@@ -1,6 +1,6 @@
 # Java Maven Login Application
 
-This repository contains a small Java console application built around the requirements in the assignment prompt. The solution is structured for **GitHub**, **Maven**, and **automated unit testing**.
+This repository contains a small Java console application built around the requirements in the assignment i was given. The solution is structured for **GitHub**, **Maven**, and **automated unit testing**.
 
 ## What this project demonstrates
 
